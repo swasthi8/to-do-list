@@ -1,3 +1,4 @@
 # to-do-list
-this is my first project
-author-Swasthi
+this is my first project.
+<br>
+Author-Swasthi
